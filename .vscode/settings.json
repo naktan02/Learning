@@ -1,0 +1,9 @@
+{
+  "terminal.integrated.env.windows": {
+    "PYTHONIOENCODING": "utf-8",
+    "LANG": "ko_KR.UTF-8"
+  },
+  "code-runner.runInTerminal": true,
+  "files.encoding": "utf8",
+  "python.defaultInterpreterPath": "C:\\Python311\\python.exe"
+}
